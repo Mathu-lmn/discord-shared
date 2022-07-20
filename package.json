@@ -1,0 +1,25 @@
+{
+  "name": "discord-shared",
+  "version": "1.0.0",
+  "description": "NodeJS script to return the list of mutual members between discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathu-lmn/discord-shared.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Mathu-lmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathu-lmn/discord-shared/issues"
+  },
+  "homepage": "https://github.com/Mathu-lmn/discord-shared#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
